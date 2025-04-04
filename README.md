@@ -14,7 +14,7 @@ EasingEvent 是一个动画缓动计算库，提供缓动动画时间线管理�
 var speedEvent = new SpeedEvent(10);
 
 // 在5秒处分割事件
-speedEvent.Divid(5f);
+speedEvent.Divid(5);
 
 // 更改后半段（第7.5秒所在的一段）缓动类型并初始化位移缓存（必须）
 var part = speedEvent.FindPart(7.5f);
