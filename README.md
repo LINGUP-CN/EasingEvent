@@ -3,7 +3,7 @@
 ![.NET Version](https://img.shields.io/badge/.NET-%3E%3D8.0-blue)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-## 项目简介
+## 简介
 
 EasingEvent 是一个动画缓动计算库，提供缓动动画时间线管理方案。适用于游戏开发、UI动画等场景。
 
